@@ -1,5 +1,6 @@
 # Jack Lu's Data Portfolio
 
-### Powered By: [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
+### Website: [My Data Portfolio](https://https://mrjacklu.github.io/)
 
-### Website: [Data Portfolio](https://https://mrjacklu.github.io/)
+
+### Powered By: [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
