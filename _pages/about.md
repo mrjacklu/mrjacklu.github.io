@@ -2,7 +2,7 @@
 title: "About Me"
 permalink: /about/
 header:
-  image: "/images/about_03.jpg"
+  image: "/images/about_04.png"
 ---
 
 Motivated, team-oriented, and responsible sales professional with analytical skills aspiring to transition into the field of data analytics.
