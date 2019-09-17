@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: postsT
 permalink: /tutorials/
 title: "Tutorials"
 author_profile: false
