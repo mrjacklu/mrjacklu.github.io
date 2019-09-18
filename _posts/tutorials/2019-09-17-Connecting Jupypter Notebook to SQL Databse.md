@@ -39,8 +39,9 @@ If you don't have Jupyter Notebook, the easiest way would be to install [Anacond
 
 Finally! We're going to connect to your .DB file and query from there.
 
-In this tutorial I used a .CSV that includes only two columns: the name of a city and its population. I will walk you through each of the steps needed to querying your .DB with SQL. Instead of listing it here, open up the [Jupyter Notebook file](https://github.com/mrjacklu/tutorials/blob/master/SQL%20Querying%20in%20Jupyter/SQL%20Querying%20in%20SQLite.ipynb).
+In this tutorial I used a very simple table that includes only two columns: the name of a city and its population. I will walk you through each of the steps needed to querying that cities.DB with SQL. Instead of listing the steps here, it would be easier to open up the [Jupyter Notebook file](https://github.com/mrjacklu/tutorials/blob/master/SQL%20Querying%20in%20Jupyter/SQL%20Querying%20in%20SQLite.ipynb) I made and follow the codes.
 
 You can find all the files to this tutorial on my [GitHub](https://github.com/mrjacklu/tutorials/tree/master/SQL%20Querying%20in%20Jupyter).
 
-### Voila! You have learned how to change your .CSV into usable .DB file and then get a specific SQL query from it. And finally, downloading the file back into .CSV format in case in you want to make a visualization out of it.
+### Voila!
+You have learned how to change your .CSV into a usable .DB file and then get a specific SQL query from it. And finally, you can download the file back into .CSV *(or Excel if you prefer* format in case in you want to make a visualization out of it.
