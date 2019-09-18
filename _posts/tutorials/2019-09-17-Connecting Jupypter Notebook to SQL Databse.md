@@ -11,7 +11,7 @@ mathjax: "true"
 
 ### Background
 
-Recently, I was working with a large csv file with multiple tables that required a lot of data wrangling. My first impulse was to import it into Excel and initiate the clean up there. Excel would have worked fine, but it would have taken longer to change/replace/delete columns and values. I opted to use my newly acquired skills in Python and SQL and SQLite. in order to practice those skills. So that's what I did.
+Recently, I was working with a large csv file with multiple tables that required a lot of data wrangling. My first impulse was to import it into Excel and initiate the clean up there. Excel would have worked fine, but it would have taken longer to change/replace/delete columns and values. I opted to use my newly acquired skills in Python and SQL and SQLite, mostly because I wanted to practice those skills. So that's what I did, and this is a tutorial based on that using a simple database file.
 
 ### Step 1 - Converting .CSV into a SQL Database file
 
