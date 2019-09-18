@@ -24,7 +24,7 @@ I found multiple ways to do this. All of them involve creating SQL tables with d
 - If you're interested in having an actual database GUI where SQL files are properly displayed and visualized in tables and schemas I would highly recommend using [SQLite](https://sqlitebrowser.org/). This is a a light weight, open source database for small applications and projects. It's easy to download and set up. Go to the [download page](https://sqlitebrowser.org/dl/) and get the version that corresponds to your OS. After it's downloaded, open it and create a dummy table by clicking ```New Database``` and giving your .DB a name. Afterward you can import your CSV file into it. For visual assistance with this step, check out this [Youtube video](https://www.youtube.com/watch?v=TOqI-KiTBKU).
 
 
-- A third option - which I employed - is to use this excellent application via command line converter: [GitHub](https://github.com/simonw/csvs-to-sqlite). It is made by Simon Willison, and I highly recommend his other data related repositories. To use it, you need to have python3 installed on your computer, then open up your command line and use the codes in the bottom portion of the GitHub. Then to convert your .CSV using the codes provided at the top of the README.
+- A third option - which I employed - is to use this excellent [GitHub](https://github.com/simonw/csvs-to-sqlite) application via command line. It was made by Simon Willison, and I highly recommend his other data related repositories. To use it, you need to have python3 installed on your computer, then open up your command line and use the codes in the bottom portion of the GitHub. Then to convert your .CSV using the codes provided at the top of the README.
 
 
 ### Step 2 - Open Jupyter Notebook
