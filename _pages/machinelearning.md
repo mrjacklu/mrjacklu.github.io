@@ -1,5 +1,5 @@
 ---
-layout: data-posts
+layout: data-projects
 permalink: /projects/
 title: "Data Projects"
 author_profile: false
