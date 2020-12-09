@@ -86,8 +86,8 @@ analytics:
 author:
   name             : "Jack Lu"
   avatar           : "/images/bio-pic-3.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
-  location         : "New York, NY"
+  bio              : "Interested in making sense out of good and bad data."
+  location         : 
   email            : "mrjacklu@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
